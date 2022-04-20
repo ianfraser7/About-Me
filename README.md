@@ -1,6 +1,6 @@
  👋 Hi, I’m Ian
 👀 I’m interested in design, technology and sustainablity
-🌱 I’m currently learning Swift, iOS Development
+🌱 I’m currently learning Swift and iOS Development
 
 
 <!---
